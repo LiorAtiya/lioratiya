@@ -64,5 +64,5 @@ Computer Science & Mathematics student
   <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiorAtiya&theme=slateorange&layout=compact" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiorAtiya&show_icons=true&theme=slateorange&layout=compact&line_height=20" width=500/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiorAtiya&show_icons=true&theme=slateorange&layout=compact&line_height=20" width=400/>
   </span>
