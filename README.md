@@ -18,51 +18,35 @@ Software Developer | B.Sc. Computer Science and Mathematics graduate
 <hr>
   
   <h3> 🔬 My Knowlege:</h3>
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">Languages:</h4>
 <p align="left"> 
 <span>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" height="30"/>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" height="30"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaSqript" height="30"/>
+    <img src="https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white" alt="typeScript" height="30"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" height="30"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css" height="30"/>
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="andoidStudio" height="30"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
 </span>
 
-<h4 align="left">Data Bases:</h3>
+<h4 align="left">Databases:</h3>
 <span>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" height="30"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL" height="30"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30"/>
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" height="30"/>
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis" height="30"/>
 </span>
 
-<h4 align="left">Frameworks, Platforms and Libraries:</h3>
+<h4 align="left">Frameworks, Libraries and Tools:</h3>
 <span>
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" height="30"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" height="30"/>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="30"/>
-  <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB" alt="bootstrap" height="30"/>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="30"/>
-  <img src="https://img.shields.io/badge/jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" height="30"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="30"/>
+  <img src="https://img.shields.io/badge/Docker-00599C?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="30"/>
 </span>
 
-<h4 align="left">Other:</h4>
-<span>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="30"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="30"/>
-  <img src="https://img.shields.io/badge/Bash-F05032?style=for-the-badge&logo=bash&logoColor=white" alt="bash" height="30"/>
-    <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit" height="30"/>
-    <img src="https://img.shields.io/badge/wireshark-%232671E5.svg?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" height="30"/>
-</span>
 </br></br>
 </p>
-<h3>📈 Github Stats:</h3>
-  <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiorAtiya&theme=slateorange&layout=compact" height="150"/>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LiorAtiya&show_icons=true&theme=slateorange&layout=compact&line_height=20" width=450/>
-  </span>
