@@ -5,9 +5,6 @@ Software Developer
   
 <h3 align="center"> 
   
-![](https://visitor-badge.laobi.icu/badge?page_id=LiorAtiya.LiorAtiya) 
-[![Github](https://img.shields.io/github/followers/LiorAtiya?label=Followers&style=social)](https://github.com/LiorAtiya) 
-  
 </h3>
 
 <h3> 📫 Contact Me:</h3>
