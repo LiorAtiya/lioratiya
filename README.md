@@ -1,4 +1,11 @@
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Lior Atiya</h1>
+<h3 align="center">
 
+Software Developer
+  
+<h3 align="center"> 
+  
+</h3>
 
 <h3> 📫 Contact Me:</h3>
 
