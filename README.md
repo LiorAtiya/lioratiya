@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Lior Atiya</h1>
+
 <h3 align="center">
 
 Software Developer
-  
-<h3 align="center"> 
-  
-</h3>
-
 <h3> 📫 Contact Me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/eyalevi/)](https://www.linkedin.com/in/lior-atiya-136925163/)
